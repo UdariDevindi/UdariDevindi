@@ -1,11 +1,11 @@
-<h1 align="center">### Hi 👋, I'm Udari Devindi</h1>
-<h3 align="center">An undergraduate of SLIIT</h3>
+<h1 align="center">Hi 👋, I'm Udari Devindi</h1>
+<h3 align="center">An undergraduate at SLIIT</h3>
 
 - 🌱 I’m currently learning **C++, Java, PHP, HTML, CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [....](.)
 
-- 📫 How to reach me **.**
+- 📫 How to reach me **....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
