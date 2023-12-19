@@ -9,7 +9,7 @@
 <p align="center">🌱 I’m currently learning <strong>C++, Java, PHP, HTML, CSS, Javascript</strong></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="[https://linkedin.com/in/udari devindi](https://www.linkedin.com/in/udari-devindi-724496246/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udari devindi" height="30" width="40" /></a>
 </p>
