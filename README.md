@@ -6,7 +6,7 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px">
 </div>
 
-<p align="center">🌱 I’m currently learning <strong>C++, Java, PHP, HTML, CSS, Javascript</strong></p>
+<p align="center">🌱 I’m currently learning <strong>C++, Java, PHP, HTML, CSS, Javascript and MERN</strong></p>
 
 
 <h3 align="center">Connect with me:</h3>
